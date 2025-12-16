@@ -13,10 +13,10 @@ const PORT = process.env.PORT || 3000;
 const newsList = [
     {
       id: 1,
-      title: "Chiều thứ Hai - ca3!!!!",
+      title: "Học React để làm gì?",
       date: "15/12/2025",
       image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=600",
-      summary: "Đây là dữ liệu được lấy từ API của bạn chứ không phải code cứng trong React nữa."
+      summary: "React là một phầm mềm giúp ta tạo ra các chương trình..."
     },
     {
       id: 2,
@@ -28,10 +28,10 @@ const newsList = [
 
     {
       id: 3,
-      title: "Thằng Chó Đoàn Lê Hoàng Nguyên!! Mày thấy chưa đm t sửa Backend nè",
+      title: "Đây là con Mèo",
       date: "14/12/2025",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Yen_Bai_-_dogs_-_P1390010.JPG/1200px-Yen_Bai_-_dogs_-_P1390010.JPG",
-      summary: "Kết hợp Frontend Vercel và Backend Render giúp tối ưu chi phí và hiệu năng."
+      image: "https://i.pinimg.com/originals/e0/0e/d9/e00ed96cc83f6dc8d3b54e9fb63161d2.jpg",
+      summary: "Đúng hay sai?."
     }
 ];
 
